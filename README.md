@@ -39,6 +39,3 @@ This project is a Decentralized Research Repository platform that allows researc
 5. **Search and discover research papers using the search functionality.**
 6. **Engage with research papers through commenting, rating, and reviewing.**
 
-## Contribution
-
-Feel free to fork this repository and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
